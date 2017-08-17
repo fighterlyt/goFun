@@ -3,8 +3,6 @@ some funny tries with golang
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/fighterlyt/goFun)](https://goreportcard.com/report/github.com/fighterlyt/goFun)
 [![codecov](https://codecov.io/gh/fighterlyt/goFun/branch/master/graph/badge.svg)](https://codecov.io/gh/fighterlyt/goFun)
-
-
 [![GoDoc](https://godoc.org/github.com/fighterlyt/goFun?status.svg)](https://godoc.org/github.com/fighterlyt/goFun)
 
 
