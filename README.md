@@ -1,6 +1,8 @@
 # goFun
 some funny tries with golang
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/fighterlyt/goFun)](https://goreportcard.com/report/github.com/fighterlyt/goFun)
+
 ## Mutex with Timer
 When we use **sync.Mutex**, we want to count the time cost by **Mutex.Lock** operation. When application comes to production,we can turn off the timing behavior.
 
